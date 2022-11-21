@@ -1,0 +1,8 @@
+D:\TASK\LinQ\bin\Debug\LinQ.exe.config
+D:\TASK\LinQ\bin\Debug\LinQ.exe
+D:\TASK\LinQ\bin\Debug\LinQ.pdb
+D:\TASK\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+D:\TASK\LinQ\obj\Debug\LinQ.csproj.SuggestedBindingRedirects.cache
+D:\TASK\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+D:\TASK\LinQ\obj\Debug\LinQ.exe
+D:\TASK\LinQ\obj\Debug\LinQ.pdb
