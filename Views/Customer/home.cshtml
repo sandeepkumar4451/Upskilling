@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3 style="color:slateblue">Customer Management System</h3>
+<p>Customer Management System (CMS) is an application, which helps to manage the customer details. It allows admin to create, display, edit and remove customer.</p>
+
+<div class="search">
+            <form action="#">
+                <input type="text"
+                    placeholder=" Search by id"
+                    name="search">
+                <button type="button" onclick="FindById(Id)">Find</button>
+            </form>
+        </div>
